@@ -1,0 +1,2 @@
+# kubecoo
+Kubernetes dashboard
